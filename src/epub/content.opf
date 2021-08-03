@@ -36,9 +36,11 @@
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">Unknown</meta>
 		<meta property="se:subject">Drama</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">Edward III declares himself the true heir of France, which launches the Hundred Years’ War.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Long Description.&lt;/p&gt;
+			&lt;p&gt;Since its publication in 1596, the authorship of &lt;i&gt;Edward III&lt;/i&gt; has been up for debate. The publisher, Cuthbert Burby, published this Elizabethan play without an author. Any records that could have provided the author’s name or authors’ names burned up in the Great Fire of London in 1666. In the 1760s, a critically acclaimed scholar named Edward Capell was one of the first to claim that &lt;a href="https://standardebooks.org/ebooks/william-shakespeare"&gt;William Shakespeare&lt;/a&gt; could be the author.&lt;/p&gt;
+			&lt;p&gt;Many other academicians support this claim or suggest he at least partially wrote it. Certain archaic/obscure words and phrases found in canonical Shakespearean plays also appear in this one. Others argue that Shakespeare would never write something so historically inaccurate; alternative playwrights offered were Thomas Kyd, Christopher Marlowe, Michael Drayton, Thomas Nashe, and George Peele. While the legitimate authorship may never come to light, &lt;i&gt;Edward III&lt;/i&gt; has become accepted as part of Shakespeare’s canon of plays.&lt;/p&gt;
+			&lt;p&gt;After the King of France passes away, a new heir must take the throne; without any brothers or sons in the direct line, the crown falls to his nephew, King Edward of England. French nobles refuse to hand over France to the English, claiming that the right of succession should never have passed through his mother Isabel, and order Edward to acknowledge King John as the rightful successor. These disputed claims to the kingdom of France launch the Hundred Years’ War.&lt;/p&gt;
 			&lt;p&gt;This Standard Ebooks production is based on G. C. Moore Smith’s 1897 edition.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
