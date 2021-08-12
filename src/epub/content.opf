@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/william-shakespeare/edward-iii</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2021-08-12T22:43:45Z</dc:date>
+		<meta property="dcterms:modified">2021-08-12T22:43:45Z</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -38,8 +38,8 @@
 		<meta property="se:subject">Drama</meta>
 		<dc:description id="description">Edward III declares himself the true heir of France, which launches the Hundred Years’ War.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Since its publication in 1596, the authorship of &lt;i&gt;Edward III&lt;/i&gt; has been up for debate. The publisher, Cuthbert Burby, published this Elizabethan play without an author. Any records that could have provided the author’s name or authors’ names burned up in the Great Fire of London in 1666. In the 1760s, a critically acclaimed scholar named Edward Capell was one of the first to claim that &lt;a href="https://standardebooks.org/ebooks/william-shakespeare"&gt;William Shakespeare&lt;/a&gt; could be the author.&lt;/p&gt;
-			&lt;p&gt;Many other academicians support this claim or suggest he at least partially wrote it. Certain archaic/obscure words and phrases found in canonical Shakespearean plays also appear in this one. Others argue that Shakespeare would never write something so historically inaccurate; alternative playwrights offered were Thomas Kyd, Christopher Marlowe, Michael Drayton, Thomas Nashe, and George Peele. While the legitimate authorship may never come to light, &lt;i&gt;Edward III&lt;/i&gt; has become accepted as part of Shakespeare’s canon of plays.&lt;/p&gt;
+			&lt;p&gt;The authorship of &lt;i&gt;Edward III&lt;/i&gt; has been up for debate ever since it was first published in 1596. Its publisher, Cuthbert Burby, published it without listing an author, and any records that might have shed light on the author’s name (or names) were destroyed in the Great Fire of London in 1666. In the 1760s, the acclaimed scholar Edward Capell was one of the first to claim that &lt;a href="https://standardebooks.org/ebooks/william-shakespeare"&gt;William Shakespeare&lt;/a&gt; might have been the author.&lt;/p&gt;
+			&lt;p&gt;Many other academicians support this claim, or at least suggest Shakespeare partially wrote it, as certain archaic or obscure words and phrases found in the canonical Shakespearean plays also appear in this one. Others argue that Shakespeare would never write something so historically inaccurate; suggestions of possible alternative playwrights include Thomas Kyd, Christopher Marlowe, Michael Drayton, Thomas Nashe, and George Peele. While the legitimate authorship may never come to light, &lt;i&gt;Edward III&lt;/i&gt; has become accepted as part of Shakespeare’s canon of plays.&lt;/p&gt;
 			&lt;p&gt;After the King of France passes away, a new heir must take the throne; without any brothers or sons in the direct line, the crown falls to his nephew, King Edward of England. French nobles refuse to hand over France to the English, claiming that the right of succession should never have passed through his mother Isabel, and order Edward to acknowledge King John as the rightful successor. These disputed claims to the kingdom of France launch the Hundred Years’ War.&lt;/p&gt;
 			&lt;p&gt;This Standard Ebooks production is based on G. C. Moore Smith’s 1897 edition.&lt;/p&gt;
 		</meta>
@@ -47,8 +47,8 @@
 		<dc:source>https://www.gutenberg.org/ebooks/1770</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/001018078</dc:source>
 		<meta property="se:production-notes">The main text is based on a Project Gutenberg transcription and the G. C. Moore Smith’s 1897 edition.</meta>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">21532</meta>
+		<meta property="se:reading-ease.flesch">75.03</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Edward_III</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/william-shakespeare_edward-iii</meta>
 		<dc:creator id="author">William Shakespeare</dc:creator>
@@ -73,6 +73,10 @@
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Alex Cabal</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Cabal, Alex</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://alexcabal.com</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
