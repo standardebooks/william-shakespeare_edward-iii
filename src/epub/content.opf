@@ -56,7 +56,6 @@
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="artist">Pierre Jean Van der Ouderaa</dc:contributor>
 		<meta property="file-as" refines="#artist">Ouderaa, Pierre Jean Van der</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://nl.wikipedia.org/wiki/Pierre_Jean_Van_der_Ouderaa</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">P.G. Shakespeare Team</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">P.G. Shakespeare Team</meta>
