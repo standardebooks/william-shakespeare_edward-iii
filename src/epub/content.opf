@@ -28,8 +28,8 @@
 		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">Edward III</dc:title>
 		<meta property="file-as" refines="#title">Edward III</meta>
-		<meta property="se:alternate-title" refines="#title">Edward the 3rd</meta>
-		<meta property="se:alternate-title" refines="#title">Edward the Third</meta>
+		<meta property="dcterms:alternate" refines="#title">Edward the 3rd</meta>
+		<meta property="dcterms:alternate" refines="#title">Edward the Third</meta>
 		<dc:subject id="subject-1">Edward III, King of England, 1312-1377 -- Drama</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">Unknown</meta>
