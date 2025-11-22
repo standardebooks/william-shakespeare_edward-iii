@@ -29,8 +29,8 @@
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.2 Level AA.</meta>
 		<dc:title id="title">Edward III</dc:title>
 		<meta property="file-as" refines="#title">Edward III</meta>
-		<meta property="dcterms:alternate" refines="#title">Edward the 3rd</meta>
-		<meta property="dcterms:alternate" refines="#title">Edward the Third</meta>
+		<meta property="dcterms:alternative" refines="#title">Edward the 3rd</meta>
+		<meta property="dcterms:alternative" refines="#title">Edward the Third</meta>
 		<dc:subject id="subject-1">Edward III, King of England, 1312-1377 -- Drama</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">Unknown</meta>
