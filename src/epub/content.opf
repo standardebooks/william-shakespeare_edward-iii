@@ -36,7 +36,7 @@
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">Unknown</meta>
 		<meta property="schema:genre">Drama</meta>
-		<dc:abstract>Edward III declares himself the true heir of France, which launches the Hundred Years’ War.</dc:abstract>
+		<meta property="schema:abstract">Edward III declares himself the true heir of France, which launches the Hundred Years’ War.</meta>
 		<dc:description>
 			&lt;p&gt;The authorship of &lt;i&gt;Edward III&lt;/i&gt; has been up for debate ever since it was first published in 1596. Its publisher, Cuthbert Burby, published it without listing an author, and any records that might have shed light on the author’s name (or names) were destroyed in the Great Fire of London in 1666. In the 1760s, the acclaimed scholar Edward Capell was one of the first to claim that &lt;a href="https://standardebooks.org/ebooks/william-shakespeare"&gt;William Shakespeare&lt;/a&gt; might have been the author.&lt;/p&gt;
 			&lt;p&gt;Many other academicians support this claim, or at least suggest Shakespeare partially wrote it, as certain archaic or obscure words and phrases found in the canonical Shakespearean plays also appear in this one. Others argue that Shakespeare would never write something so historically inaccurate; suggestions of possible alternative playwrights include Thomas Kyd, Christopher Marlowe, Michael Drayton, Thomas Nashe, and George Peele. While the legitimate authorship may never come to light, &lt;i&gt;Edward III&lt;/i&gt; has become accepted as part of Shakespeare’s canon of plays.&lt;/p&gt;
